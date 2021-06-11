@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @jinita123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-jinita123/jinita123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+radius=input("Enter the radius of circle")
+radius=float(radius)
+area=3.14*radius*radius 
+print("The area of circle with radius",radius," is ",area)
+
